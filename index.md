@@ -11,9 +11,9 @@ Golden Winds Store LLC es una empresa registrada en Florida, especializada en la
 
 ## 🛍️ Nuestros productos
 
-<a href="https://www.amazon.com/shops/goldenwinds" class="btn" style="display:inline-flex; align-items:center; gap:8px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="24" height="24" />
-  Visitar tienda en Amazon
+<a href="https://www.amazon.com/shops/goldenwinds" class="btn" style="display:inline-flex; align-items:center; gap:8px; padding:0.5em 1em;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:24px; width:auto;" />
+  <span>Visitar tienda en Amazon</span>
 </a>
 
 ## 📩 Contacto
