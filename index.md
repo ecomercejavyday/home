@@ -1,10 +1,10 @@
 ---
-<head>
-  <link rel="stylesheet" href="/assets/css/style.css">
-</head>
 layout: default
 title: Golden Winds Store LLC
 ---
+<head>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
 <img src="logo.svg" alt="Golden Winds Logo" width="80" style="display:block; margin:auto;" />
 # Golden Winds Store LLC
 
