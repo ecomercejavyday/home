@@ -12,6 +12,7 @@ permalink: /
   <meta name="keywords" content="Golden Winds Store, Amazon, e-commerce, tienda online, productos USA, LLC Florida">
   <meta name="author" content="Golden Winds Store LLC">
   <link rel="canonical" href="https://goldenwindsstore.com">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <title>Golden Winds Store LLC</title>
 </head>
 <img src="logo.svg" alt="Golden Winds Logo" width="80" style="display:block; margin:auto;" />
