@@ -14,6 +14,7 @@ permalink: /
   <link rel="canonical" href="https://goldenwindsstore.com">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <title>Golden Winds Store LLC</title>
 </head>
 <img src="logo.svg" alt="Golden Winds Logo" width="80" style="display:block; margin:auto;" />
