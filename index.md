@@ -5,6 +5,15 @@ description: E-commerce confiable con alcance global
 lang: es
 permalink: /
 ---
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Golden Winds Store LLC: e-commerce confiable con alcance global. Vendemos productos seleccionados a través de Amazon.com.">
+  <meta name="keywords" content="Golden Winds Store, Amazon, e-commerce, tienda online, productos USA, LLC Florida">
+  <meta name="author" content="Golden Winds Store LLC">
+  <link rel="canonical" href="https://goldenwindsstore.com">
+  <title>Golden Winds Store LLC</title>
+</head>
 <img src="logo.svg" alt="Golden Winds Logo" width="80" style="display:block; margin:auto;" />
 # Golden Winds Store LLC
 
