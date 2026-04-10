@@ -38,5 +38,5 @@ Para consultas comerciales o colaboraciones, escribinos a:
 
 ---
 
-© 2025 Golden Winds Store LLC  
+© 2026 Golden Winds Store LLC  
 Entidad registrada en el estado de Florida, EE.UU.
